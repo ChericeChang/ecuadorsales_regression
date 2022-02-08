@@ -16,7 +16,7 @@ This repo explored some basic time series forecasting models:
 * Scikit Learn - Support Vector Regressor
 
 ## 3. Model Performance
-![table_rmse](/figures/table_rmse.jpg)
+![table_rmse](/figures/table_rmse.JPG)
 
 Facebook Prophet model is the best performing model. Considering that moving average is not a prediction model, but can be used to get a general average for one day in the future.
 
