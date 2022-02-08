@@ -7,7 +7,12 @@ Data updated date: August 2017 <br>
 Data start date: Jan 2013
 
 ## 2. EDA
-![daily_oil_prices_sales](/figures/daily_oil_prices_sales.PNG)
+![transactions](/figures/transactions.JPG)
+![month](/figures/month.JPG)
+![week](/figures/week.JPG)
+![city](/figures/city.JPG)
+![daily_oil_prices_sales](/figures/daily_oil_prices_sales.png)
+![daily_oil_prices_sales_transactions](/figures/daily_oil_prices_sales_transactions.JPG)
 
 
 ## 3. Models
