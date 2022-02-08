@@ -6,7 +6,11 @@ Data source: [Kaggle](https://www.kaggle.com/c/store-sales-time-series-forecasti
 Data updated date: August 2017 <br>
 Data start date: Jan 2013
 
-## 2. Models
+## 2. EDA
+![daily_oil_prices_sales](/figures/daily_oil_prices_sales.PNG)
+
+
+## 3. Models
 This repo explored some basic time series forecasting models:
 * Simple Moving Average
 * Exponential Moving Average
@@ -15,7 +19,7 @@ This repo explored some basic time series forecasting models:
 * Scikit Learn - Random Forest Regressor
 * Scikit Learn - Support Vector Regressor
 
-## 3. Model Performance
+## 4. Model Performance
 ![table_rmse](/figures/table_rmse.JPG)
 
 Facebook Prophet model is the best performing model. Considering that moving average is not a prediction model, but can be used to get a general average for one day in the future.
