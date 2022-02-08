@@ -1,0 +1,51 @@
+,Feature,Test Type,AB Hypothesis,p-value,Comment,GroupA_mean,GroupB_mean,GroupA_median,GroupB_median
+0,events_Black_Friday,Non-Parametric,Reject H0,6.268201203602345e-12,A/B groups are not similar!,393.70213720606006,397.85308531569694,26.5845,19.0
+0,events_Cyber_Monday,Non-Parametric,Reject H0,8.305489099254901e-18,A/B groups are not similar!,472.6456128948517,397.7084867766352,24.0,19.0
+0,events_Dia_de_la_Madre,Non-Parametric,Reject H0,7.173048491074656e-05,A/B groups are not similar!,386.34738229737496,397.8798458134604,17.0,19.0
+0,events_Futbol,Non-Parametric,Reject H0,5.176083175041881e-41,A/B groups are not similar!,360.2990164845902,398.1474817602665,13.0,19.0
+0,events_Terremoto_Manabi,Non-Parametric,Reject H0,0.0,A/B groups are not similar!,519.3869589516744,395.4276293202821,30.0,19.0
+0,holiday_national_binary,Non-Parametric,Reject H0,0.001470273177260886,A/B groups are not similar!,471.4173037458465,394.26776631956795,20.0,19.0
+0,holiday_local_binary,Non-Parametric,Reject H0,1.5371067528346064e-10,A/B groups are not similar!,472.891589439171,397.5459167461132,24.0,19.0
+0,holiday_regional_binary,Non-Parametric,Reject H0,4.368034370204677e-05,A/B groups are not similar!,254.6144387621884,397.8945011356176,11.0,19.0
+0,holiday_national_Batalla_de_Pichincha,Non-Parametric,Fail to Reject H0,0.6187633320972815,A/B groups are similar!,434.2231030029242,397.7368206098704,21.0,19.0
+0,holiday_national_Carnaval,Non-Parametric,Fail to Reject H0,0.1880610223928021,A/B groups are similar!,373.361495847092,397.99049663668836,19.0,19.0
+0,holiday_national_Dia_de_Difuntos,Non-Parametric,Reject H0,4.283909177252338e-19,A/B groups are not similar!,471.9821405466141,397.6212821748114,26.0,19.0
+0,holiday_national_Dia_de_la_Madre,Non-Parametric,Reject H0,3.6861971431974624e-10,A/B groups are not similar!,495.64291071025116,397.5533334399157,30.0,19.0
+0,holiday_national_Dia_del_Trabajo,Non-Parametric,Reject H0,0.003896775077969453,A/B groups are not similar!,535.8088258187609,397.43498642463675,23.0,19.0
+0,holiday_national_Independencia_de_Cuenca,Non-Parametric,Reject H0,5.2757620881328544e-11,A/B groups are not similar!,528.5353960027172,397.53292288533345,23.37,19.0
+0,holiday_national_Independencia_de_Guayaquil,Non-Parametric,Reject H0,3.912458845966328e-12,A/B groups are not similar!,476.4047780616557,397.65760453112,27.0,19.0
+0,holiday_national_Navidad,Non-Parametric,Reject H0,3.461413035859328e-197,A/B groups are not similar!,607.3690816518687,395.31568890180296,36.486,19.0
+0,holiday_national_Primer_Grito_de_Independencia,Non-Parametric,Reject H0,0.021302897720479438,A/B groups are not similar!,407.4269863605574,397.81663987503777,22.0,19.0
+0,holiday_national_Primer_dia_del_ano,Non-Parametric,Reject H0,0.0,A/B groups are not similar!,347.76826385987147,398.14208516627554,0.0,19.0
+0,holiday_national_Viernes_Santo,Non-Parametric,Reject H0,4.726583950393647e-08,A/B groups are not similar!,327.0092201845764,398.0554506891359,16.0,19.0
+0,holiday_regional_Provincializacion_Santa_Elena,Non-Parametric,Fail to Reject H0,0.19716178124960482,A/B groups are similar!,188.2073671875,397.855439893001,11.5,19.0
+0,holiday_regional_Provincializacion_de_Cotopaxi,Non-Parametric,Reject H0,7.327218845095968e-07,A/B groups are not similar!,245.19651112380953,397.8633160925865,5.0,19.0
+0,holiday_regional_Provincializacion_de_Imbabura,Non-Parametric,Reject H0,0.014512784643555592,A/B groups are not similar!,182.06693746875004,397.8582900843236,9.0,19.0
+0,holiday_regional_Provincializacion_de_Santo_Domingo,Non-Parametric,Fail to Reject H0,0.604977397359404,A/B groups are similar!,326.7217905578126,397.85393074158634,19.5,19.0
+0,holiday_local_Cantonizacion_de_Cayambe,Non-Parametric,Fail to Reject H0,0.1118444852870556,A/B groups are similar!,459.5276378749998,397.84183875600013,24.5,19.0
+0,holiday_local_Cantonizacion_de_El_Carmen,Non-Parametric,Fail to Reject H0,0.07335623647970452,A/B groups are similar!,235.88191997333328,397.85449902689027,17.5,19.0
+0,holiday_local_Cantonizacion_de_Guaranda,Non-Parametric,Reject H0,0.005876690065282838,A/B groups are not similar!,183.57891246874996,397.85820043560176,8.0,19.0
+0,holiday_local_Cantonizacion_de_Latacunga,Non-Parametric,Reject H0,0.0013568120600746952,A/B groups are not similar!,188.05412067301586,397.86998682336434,12.0,19.0
+0,holiday_local_Cantonizacion_de_Libertad,Non-Parametric,Fail to Reject H0,0.2776977352108603,A/B groups are similar!,297.36467964062496,397.85026218966965,12.0,19.0
+0,holiday_local_Cantonizacion_de_Quevedo,Non-Parametric,Fail to Reject H0,0.12841750490303602,A/B groups are similar!,213.7320968548387,397.85395624535903,18.5,19.0
+0,holiday_local_Cantonizacion_de_Riobamba,Non-Parametric,Reject H0,0.0043869950757360245,A/B groups are not similar!,195.55488399999996,397.85711550707794,8.0,19.0
+0,holiday_local_Cantonizacion_de_Salinas,Non-Parametric,Fail to Reject H0,0.8034580684651326,A/B groups are similar!,285.65340625,397.8508176952779,19.5,19.0
+0,holiday_local_Cantonizacion_del_Puyo,Non-Parametric,Fail to Reject H0,0.33262010893403193,A/B groups are similar!,150.4057969375,397.85136435703214,23.0,19.0
+0,holiday_local_Fundacion_de_Ambato,Non-Parametric,Fail to Reject H0,0.8709176691925655,A/B groups are similar!,336.0371288671875,397.8513598832457,21.601,19.0
+0,holiday_local_Fundacion_de_Cuenca,Non-Parametric,Fail to Reject H0,0.915113947827141,A/B groups are similar!,333.86036060997446,397.8547680232323,19.0,19.0
+0,holiday_local_Fundacion_de_Esmeraldas,Non-Parametric,Fail to Reject H0,0.23424821702829923,A/B groups are similar!,333.5561678709677,397.8491887868678,10.0,19.0
+0,holiday_local_Fundacion_de_Guayaquil,Non-Parametric,Reject H0,0.0033217767184336488,A/B groups are not similar!,288.4811225901017,397.9331826740511,14.0,19.0
+0,holiday_local_Fundacion_de_Ibarra,Non-Parametric,Fail to Reject H0,0.05429349594453418,A/B groups are similar!,224.80770308593748,397.85370381433756,7.5,19.0
+0,holiday_local_Fundacion_de_Loja,Non-Parametric,Fail to Reject H0,0.25907522943038785,A/B groups are similar!,441.5229318636363,397.84335952651577,20.0,19.0
+0,holiday_local_Fundacion_de_Machala,Non-Parametric,Fail to Reject H0,0.5044118066704646,A/B groups are similar!,297.3611312437499,397.85741267965324,17.0,19.0
+0,holiday_local_Fundacion_de_Manta,Non-Parametric,Fail to Reject H0,0.6277599689510177,A/B groups are similar!,255.1731313131314,397.85073017501674,15.0,19.0
+0,holiday_local_Fundacion_de_Quito,Non-Parametric,Reject H0,4.2763083269548626e-58,A/B groups are not similar!,732.5926840967318,397.2828873730461,41.0,19.0
+0,holiday_local_Fundacion_de_Riobamba,Non-Parametric,Reject H0,1.1684107795716477e-05,A/B groups are not similar!,193.41480638709677,397.85723843199565,3.0,19.0
+0,holiday_local_Fundacion_de_Santo_Domingo,Non-Parametric,Fail to Reject H0,0.4183185565226377,A/B groups are similar!,314.92178127604177,397.85729722482733,21.0,19.0
+0,holiday_local_Independencia_de_Ambato,Non-Parametric,Fail to Reject H0,0.12978683964464796,A/B groups are similar!,370.55979286328125,397.84808467268226,29.5,19.0
+0,holiday_local_Independencia_de_Guaranda,Non-Parametric,Fail to Reject H0,0.05899832064045873,A/B groups are similar!,219.93592183593748,397.85393489952503,6.0,19.0
+0,holiday_local_Independencia_de_Latacunga,Non-Parametric,Reject H0,0.0028254137379860305,A/B groups are not similar!,178.5866904206349,397.86597236175686,11.0,19.0
+0,national_independence,Non-Parametric,Reject H0,3.491085035966749e-15,A/B groups are not similar!,457.027325311609,397.2021866146365,23.0,19.0
+0,local_cantonizacio,Non-Parametric,Reject H0,1.2538948224367042e-17,A/B groups are not similar!,397.4672267768628,506.69209261623183,19.0,26.0
+0,local_fundacion,Non-Parametric,Reject H0,3.8004534516207097e-06,A/B groups are not similar!,397.9556508331949,250.79277625990088,19.0,14.0
+0,local_independencia,Non-Parametric,Reject H0,1.8751578823936794e-12,A/B groups are not similar!,397.51436809501797,486.0419857071827,19.0,25.0
